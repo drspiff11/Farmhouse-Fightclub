@@ -13,7 +13,7 @@ pixelated art style. Written in PyGame.
 If you have ideas for releases in the future, it is a good idea to list them in the README.
 
 ## Authors and acknowledgment
-Created by Maggie, Mason, Tate, Chris
+Created by Maggie Lucas, Mason Landis, Tate Osborne, Chris Sheehy
 
 
 ## Project status
